@@ -11,6 +11,6 @@ package projecteprova2024;
  */
 public class Prova {
     public static void metodo(){
-        System.out.println("Nuevo commit");
+        System.out.println("Nuevo commit1");
     }
 }
