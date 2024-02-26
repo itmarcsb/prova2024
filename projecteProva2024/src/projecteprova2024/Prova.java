@@ -10,5 +10,7 @@ package projecteprova2024;
  * @author itmar
  */
 public class Prova {
-    
+    public static void metodo(){
+        System.out.println("Hola buenas tardes");
+    }
 }
